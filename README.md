@@ -29,9 +29,9 @@
 
 
 <a href="https://github.com/AbhinavUtkarsh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavUtkarsh&theme=dracula&line_langs_below=&layout=compact" width="400px" alt="Abhinav's github distribution"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavUtkarsh&theme=dracula&line_langs_below=&layout=compact" width="300px" alt="Abhinav's github distribution"/>
 </a>
 
 <a href="https://github.com/AbhinavUtkarsh">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhinavUtkarsh&show_icons=true&theme=dracula&line_height=27" width="458px" alt="Abhinav's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhinavUtkarsh&show_icons=true&theme=dracula&line_height=27" width="258px" alt="Abhinav's github stats"/>
 </a>
