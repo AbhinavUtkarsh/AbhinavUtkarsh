@@ -33,5 +33,5 @@
 </a>
 
 <a href="https://github.com/AbhinavUtkarsh">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhinavUtkarsh&show_icons=true&theme=dracula&line_height=27" width="300px" alt="Abhinav's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhinavUtkarsh&show_icons=true&theme=dracula&line_height=27" width="340px" alt="Abhinav's github stats"/>
 </a>
