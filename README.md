@@ -6,7 +6,7 @@
   <img align="left" alt="Abhinav's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-  <a href="https://github.com/AbhinavUtkarsh/">
+<a href="https://github.com/AbhinavUtkarsh/">
   <img align="left" alt="Abhinav's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -26,3 +26,12 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhinavutkarsh/)
 - ⚡ Fun fact:  -->
+
+
+<a href="https://github.com/AbhinavUtkarsh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavUtkarsh&theme=dracula&line_langs_below=&layout=compact" width="400px" alt="Abhinav's github distribution"/>
+</a>
+
+<a href="https://github.com/AbhinavUtkarsh">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhinavUtkarsh&show_icons=true&theme=dracula&line_height=27" width="458px" alt="Abhinav's github stats"/>
+</a>
