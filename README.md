@@ -1,6 +1,6 @@
 ### Hey there! 👋🏻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhinavUtkarsh&label=Profile Views&color=blue&style=plastic" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhinavUtkarsh&label=Profile+Views&color=blue&style=plastic" alt="" /> </p>
 
 <a href="https://abhinavutkarsh.com"> Discover My Work
   <img align="left" alt="Abhinav's Website" width="25px" src="https://abhinavutkarsh.com/favicon.ico" />
@@ -18,7 +18,7 @@
   <img align="left" alt="Abhinav's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-  <br/>
+<br/>
 <br/>
 
 
